@@ -1,5 +1,5 @@
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=8B39F7&width=435&lines=Welcome+to+my+profile+;%5E_%5E" alt="Typing SVG" /></a>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RLC02&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RLC02&hide_progress=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <p>
