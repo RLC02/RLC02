@@ -13,6 +13,5 @@
 <h3>Back-End</h3>       
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
- ![Snake animation](https://github.com/RLC02/RLC02/blob/output/github-contribution-grid-snake.svg)
 <img align="left" height="200" src="https://github.com/RLC02/RLC02/blob/main/68747470733a2f2f34662e746f2f696d672f323032322f392f31382f3232313634352f6c617267652e706e67.png"/>
 
