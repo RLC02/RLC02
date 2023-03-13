@@ -18,3 +18,4 @@
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"> 
 </div>
+<img src"https://github.com/RLC02/RLC02/blob/main/68747470733a2f2f34662e746f2f696d672f323032322f392f31382f3232313634352f6c617267652e706e67.png">
