@@ -8,13 +8,13 @@
 </div>
 <div style="margin: auto;" align="center" ">
                                            
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RLC02&theme=tokyo-night)
-                                         
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RLC02&theme=tokyo-night)<br><br>
+<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RLC02&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RLC02&hide_progress=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
  
+ 
 </div>
-
 
 <div align="center">
  <h1>Estudando</h1>
