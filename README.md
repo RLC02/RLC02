@@ -2,6 +2,10 @@
 <div style="margin: auto;" align="center" ">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Delicious+Handrawn&size=50&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+Github;Feel+free+%3A)" alt="Typing SVG" /></a>
 </div>
+<div>
+<br>
+<br>
+</div>
 <div style="margin: auto;" align="center" ">
                                            
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RLC02&theme=tokyo-night)
