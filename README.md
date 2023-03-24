@@ -22,6 +22,8 @@
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"> 
+  
+</div>
 </div>
 
     
@@ -29,5 +31,7 @@
 <h3>Back-End</h3>   
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"> 
+<img width="50" src="https://camo.githubusercontent.com/2582ec2237a3a1fbd34e9b57332b72be27a7facb32abe7c2335e5f86e5f457a8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d7973716c2f6d7973716c2d6f726967696e616c2e737667"> 
+ <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg"> 
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6593e2&height=120&section=footer"/>
