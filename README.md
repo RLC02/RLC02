@@ -1,36 +1,69 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6593e2&height=120&section=header"/>
-<div style="margin: auto;" align="center" ">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Delicious+Handrawn&size=50&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+Github;Feel+free+%3A)" alt="Typing SVG" /></a>
-</div>
-<div>
-<br>
-<br>
-</div>
-<div style="margin: auto;" align="center" ">
-                                           
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RLC02&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RLC02&hide_progress=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
- 
- 
-</div>
+<br clear="both">
+
+<h2 align="center">Ola meu nome é Ricardo Luquetti bem vindo ao meu perfil 👋<br>Hello my name is Ricardo Luquetti welcome to my profile 👋</h2>
+
+###
+
+<br clear="both">
 
 <div align="center">
- <h1>Studying</h1>
- <h3>Front-End</h3>
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"> 
-  <img width="50" src="https://camo.githubusercontent.com/c76217244e1b3700a87058abf858e20a313b06dfadd972121d0d42de5bd20fa5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f626f6f7473747261702f626f6f7473747261702d6f726967696e616c2e737667">  
-  
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=RLC02&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=prussian&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RLC02&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=prussian&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
-    
+###
+
+<br clear="both">
+
 <div align="center">
-<h3>Back-End</h3>   
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"> 
-<img width="50" src="https://camo.githubusercontent.com/2582ec2237a3a1fbd34e9b57332b72be27a7facb32abe7c2335e5f86e5f457a8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d7973716c2f6d7973716c2d6f726967696e616c2e737667"> 
- <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg"> 
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="30" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6593e2&height=120&section=footer"/>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <a href="RicardoLqc@outlook.com.br" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/ricardo-luquetti-codo-835a5125b" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=White&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/originals/5f/3a/1e/5f3a1ea63183c38abc3a61fe60cb58bc.gif"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/RLC02/count.svg?"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/RLC02/RLC02/output/snake.svg" alt="Snake animation" />
+
+###
