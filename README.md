@@ -16,6 +16,7 @@
 <br clear="both">
 
 <div align="center">
+  <h2 align="center">Studying<br></h2>
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
@@ -36,6 +37,7 @@
 <br clear="both">
 
 <div align="center">
+  <h2 align="center"><br>Contact<br></h2>
   <a href="RicardoLqc@outlook.com.br" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   </a>
