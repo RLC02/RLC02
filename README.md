@@ -58,10 +58,13 @@
 
 <br clear="both">
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/RLC02/count.svg?"  />
+</div>
+
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/RLC02/RLC02/output/snake.svg" alt="Snake animation" />
 
 ###
