@@ -45,5 +45,5 @@ Estudando:
 <p align="left">
   <a href="https://www.linkedin.com/in/ricardo-luquetti-codo-835a5125b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-color=13233a?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
-<img align="left" width="400" height="214.5" src="https://i.pinimg.com/originals/58/a7/61/58a761b87fea4eeb4e0b4e358eef6834.gif"  />
+<img align="left" width="400" height="215.5" src="https://i.pinimg.com/originals/58/a7/61/58a761b87fea4eeb4e0b4e358eef6834.gif"  />
 </body>
