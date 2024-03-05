@@ -27,6 +27,7 @@ Estudando:
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="javascript logo" align="center"  />
 </p>
+<p align="left">
   Ferramentas: <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="html5 logo" align="center" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=androidstudio" height="30" alt="html5 logo" align="center" />
