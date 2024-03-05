@@ -38,8 +38,6 @@ Estudando: <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5
 </p>
 
 <p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Outlook-0078D4?style=flat-square&labelColor=0078D4&logo=microsoftoutlook&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
   <a href="#" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/ricardo-luquetti-codo-835a5125b" alt="LinkedIn"/></a>
 </p>
