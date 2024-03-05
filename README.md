@@ -7,7 +7,9 @@
   👋Hello my name is Ricardo Luquetti welcome to my profile, Systems Development student.
 </p>
 <p align="left">
-Estudando: <img src="https://skillicons.dev/icons?i=html&theme=light" height="30" alt="html5 logo" align="center" />
+Estudando: 
+  
+  <img src="https://skillicons.dev/icons?i=html&theme=light" height="30" alt="html5 logo" align="center" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo" align="center"  />
   <img width="12" />
@@ -25,6 +27,7 @@ Estudando: <img src="https://skillicons.dev/icons?i=html&theme=light" height="30
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="javascript logo" align="center"  />
 </p>
+
 <img align="right" width="357.5" height="350" src="https://64.media.tumblr.com/3f32fb5132c23dad94b3c306afcbad66/tumblr_pbbsbf617b1v6bs4yo1_400.gifv"  />
 <p align="left">
   Ferramentas: <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="html5 logo" align="center" />
