@@ -27,6 +27,7 @@ Estudando:
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="javascript logo" align="center"  />
 </p>
+<img align="right" width="357.5" height="350" src="https://64.media.tumblr.com/3f32fb5132c23dad94b3c306afcbad66/tumblr_pbbsbf617b1v6bs4yo1_400.gifv"/>
 <p align="left">
   Ferramentas: <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="html5 logo" align="center" />
   <img width="12" />
@@ -35,7 +36,6 @@ Estudando:
   <img src="https://skillicons.dev/icons?i=arduino" height="30" alt="html5 logo" align="center" />
   <img width="12" />
 </p>
-<img align="right" width="357.5" height="350" src="https://64.media.tumblr.com/3f32fb5132c23dad94b3c306afcbad66/tumblr_pbbsbf617b1v6bs4yo1_400.gifv"  />
 
 <p align="left">
   Meios de contato: ⤵️
