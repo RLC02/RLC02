@@ -27,8 +27,6 @@ Estudando:
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="javascript logo" align="center"  />
 </p>
-<img align="right" width="357.5" height="350" src="https://64.media.tumblr.com/3f32fb5132c23dad94b3c306afcbad66/tumblr_pbbsbf617b1v6bs4yo1_400.gifv"/>
-<p align="left">
   Ferramentas: <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="html5 logo" align="center" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=androidstudio" height="30" alt="html5 logo" align="center" />
@@ -44,5 +42,3 @@ Estudando:
 <p align="left">
   <a href="https://www.linkedin.com/in/ricardo-luquetti-codo-835a5125b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-color=13233a?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
-<img align="left" width="400" height="217.7" src="https://i.pinimg.com/originals/58/a7/61/58a761b87fea4eeb4e0b4e358eef6834.gif"  />
-</body>
