@@ -13,11 +13,5 @@ Meu nome é Ricardo, prazer em conhecê-lo
 <img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white"/>
 
-<details>
 <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=RLC02">
 <img src="https://github-profile-trophy.vercel.app/?username=RLC02">
-</details>
-
-<br>
-
-<img src="https://img.anili.st/user/161753" width="500">
