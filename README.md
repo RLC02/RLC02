@@ -13,5 +13,6 @@ Estou estudando:
 <img src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white"/>
 
 
-Status:
+Status
+<br><br>
 <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=RLC02">
