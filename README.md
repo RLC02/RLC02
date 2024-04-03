@@ -16,4 +16,3 @@ Estou estudando:
 
 Status:
 <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=RLC02">
-<img src="https://github-profile-trophy.vercel.app/?username=RLC02">
