@@ -1,43 +1,23 @@
-<img src="https://github-readme-stats.vercel.app/api?username=RLC02&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=true" height="150" alt="stats graph" align="right" />
-  👋Ola meu nome é Ricardo Luquetti bem vindo ao meu perfil, estudante de Desenvolvimento de sistemas.
-  <br>
-  👋Hello my name is Ricardo Luquetti welcome to my profile, Systems Development student.
-</p>
-<p align="left">
-Estudando:  
-  <img src="https://skillicons.dev/icons?i=html&theme=light" height="30" alt="html5 logo" align="center" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo" align="center"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo" align="center"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="30" alt="kotlin logo" align="center"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo" align="center"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo" align="center"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo" align="center"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="javascript logo" align="center"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="javascript logo" align="center"  />
-</p>
-<img align="right" width="357.5" height="350" src="https://64.media.tumblr.com/3f32fb5132c23dad94b3c306afcbad66/tumblr_pbbsbf617b1v6bs4yo1_400.gifv"  />
-<p align="left" color:blue> 
-<p align="left">
-  Ferramentas: <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="html5 logo" align="center" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="30" alt="html5 logo" align="center" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="30" alt="html5 logo" align="center" />
-  <img width="12" />
-</p>
 
-<p align="left">
-  Meios de contato: ⤵️
-</p>
+Meu nome é Ricardo, prazer em conhecê-lo
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/ricardo-luquetti-codo-835a5125b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-color=13233a?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</p>
+:page_with_curl: Estou estudando:
+<br><br>
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+<img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white"/>
+
+<details>
+<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=RLC02">
+<img src="https://github-profile-trophy.vercel.app/?username=RLC02">
+</details>
+
+<br>
+
+<img src="https://img.anili.st/user/161753" width="500">
