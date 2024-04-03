@@ -1,5 +1,5 @@
 
-Meu nome é Ricardo, prazer em conhecê-lo 🫡 
+Meu nome é Ricardo, prazer em conhecê-lo 🪽
 
 Estou estudando:
 <br><br>
