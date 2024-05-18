@@ -1,4 +1,4 @@
-Meu nome é Ricardo, prazer em conhecê-lo 
+Meu nome é Ricardo Estudante de desenvolvimento de sistemas, prazer em conhecê-lo 
 
 Estou estudando:
 <br><br>
