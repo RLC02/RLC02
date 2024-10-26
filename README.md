@@ -24,3 +24,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RLC02&show_icons=true&theme=midnight-purple"/>
 </p>
+<br>
+<p align="center">
+  <img src="https://fontmeme.com/temporary/52eb574ea39b92bf4a30624d141e75a1.png"/>
+</p>
+<p align="center">
+ <a href="https://www.linkedin.com/in/ricardo-luquetti-codo-835a5125b"><img src="https://img.shields.io/badge/linkedin%20-%23FF2D20.svg?&style=for-the-badge&logo=linkedin&logoColor=9042ed&color=black" width="200" alt="linkedin"/></a>
+</p>
