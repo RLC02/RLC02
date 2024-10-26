@@ -6,7 +6,7 @@
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/32f419210192415.670d3bfa13117.gif" width="500" height="500" />
 </p>
 <p align="center">
-<img src="https://fontmeme.com/temporary/7e5cc86606bc3f9a5ad213b9f8ceb327.png"/>
+<img src="https://fontmeme.com/temporary/043276b96a34589f6c1d6ac65e2f5379.png"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=&color=black" alt="HTML5"/>
