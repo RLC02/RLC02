@@ -7,7 +7,7 @@
 </p>
 <p align="center">
 <br>
-<img src="https://fontmeme.com/temporary/043276b96a34589f6c1d6ac65e2f5379.png"/>
+<img src="https://github.com/RLC02/RLC02/blob/6a6b1fad8a8acbcefaa836c622ef3a3666028b77/Skills.png"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=&color=black" alt="HTML5"/>
