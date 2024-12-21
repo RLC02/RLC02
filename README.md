@@ -22,5 +22,5 @@
 </p>
   <h1 align="center">Contact</h1>
 <p align="center">
- <a href="https://www.linkedin.com/in/ricardo-luquetti-codo-835a5125b"><img src="https://img.shields.io/badge/linkedin%20-%23FF2D20.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" width="150" alt="linkedin"/></a>
+ <a href="https://www.linkedin.com/in/ricardo-luquetti-codo-835a5125b"><img src="https://img.shields.io/badge/linkedin%20-%23FF2D20.svg?&style=for-the-badge&logo=linkedin&logoColor=black&color=white" width="150" alt="linkedin"/></a>
 </p>
