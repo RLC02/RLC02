@@ -1,6 +1,6 @@
   <h1 align="center">Welcome to My Profile</h1>
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWdhMDgwdXY5ajJzcmQ2czNldGtoOHRkd20wcmV2ZXYza250eTlpdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8w8ZM343Pg5FwTGvWW/giphy-downsized-large.gif" width="600" height="400" />
+  <img src="https://cdn.dribbble.com/userupload/7049367/file/original-38a32e28147ade3721864c64a4a5dda2.gif" width="600" height="400" />
 </p>
 <p align="center">
   <h1 align="center">Studying</h1>
