@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=black&color=white" alt="Kotlin"/>
   <img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=black&color=white" alt="React Native"/>
   <img src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=black&color=white" alt="Laravel"/>
+    <img src="https://img.shields.io/badge/Go%20-%23FF2D20.svg?&style=for-the-badge&logo=go&logoColor=black&color=white" alt="go"/>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RLC02&show_icons=true&theme=graywhite"/>
