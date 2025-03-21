@@ -5,20 +5,21 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-Dev%20Fullstack-BEE7E8?style=for-the-badge&logo=code&logoColor=black" alt="Dev Fullstack">
   <br>
-  <em>Experiência com tecnologias Frontend e Backend, criando aplicações web e móveis completas.</em>
+  <em>Experience with Frontend and Backend technologies, building complete web and mobile applications, IoT solutions, and providing technical support for systems.</em>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-ETEC%20Zona%20Leste-2E294E?style=for-the-badge&logo=school&logoColor=black" alt="ETEC">
   <br>
-  <em>Formação técnica em Desenvolvimento de Sistemas, com ênfase em programação e desenvolvimento de soluções tecnológicas.</em>
+  <em>Technical education in Systems Development, with an emphasis on programming, technological solution development, and IT support services.</em>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-FATEC%20Zona%20Leste-BEE7E8?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="FATEC">
   <br>
-  <em>Graduação Análise e Desenvolvimento de Sistemas, com foco em sistemas computacionais e arquitetura de software. (cursando)</em>
+  <em>Degree in Systems Analysis and Development, focusing on computational systems, software architecture, IoT solutions, and IT support. (in progress)</em>
 </p>
+
 
 ---
 
