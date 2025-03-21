@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Welcome%20to%20my%20Portfolio-2E294E?style=for-the-badge&logo=Jinja&logoColor=white&color=2E294E" alt="Welcome Badge" width="600">
+  <img src="https://img.shields.io/badge/Welcome%20to%20my%20Profile-2E294E?style=for-the-badge&logo=Jinja&logoColor=white&color=2E294E" alt="Welcome Badge" width="600">
 </p>
 
 <p align="center">
