@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-ETEC%20Zona%20Leste-balck?style=for-the-badge&logo=school&logoColor=black" alt="ETEC">
+  <img src="https://img.shields.io/badge/-ETEC%20Zona%20Leste-black?style=for-the-badge&logo=school&logoColor=black" alt="ETEC">
   <br>
   <em>Technical education in Systems Development, with an emphasis on programming, technological solution development, and IT support services.</em>
 </p>
