@@ -32,7 +32,6 @@
 </p>
 
 
----
 
 <p>
   <h1 align="center" style="color: #f9f6e1;">Studying</h1>
