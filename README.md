@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="./Mobs-animado.gif" alt="Mascote" width="600">
+  <img src="./Mobs-animado.gif" alt="Mascote" width="400">
 </p>
 
 <p align="center">
