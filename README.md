@@ -1,9 +1,13 @@
 <p align="center">
+  <img src="./Quinas-vinhas.svg" alt="" width="620">
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Welcome%20to%20my%20Profile-6B2438?style=for-the-badge&logo=&logoColor=FFBE63&color=6B2438" alt="Welcome Badge" width="400">
 </p>
 
 <p align="center">
-  <img src="./Mobs-animado.gif" alt="Mascote" width="400">
+  <img src="./Mobs-loop.gif" alt="Mascote" width="400">
 </p>
 
 <p align="center">
@@ -56,4 +60,8 @@
   <h1 align="center" style="color: #E5B5FF;">Contact</h1>
 <p align="center">
  <a href="https://www.linkedin.com/in/ricardo-luquetti-codo-835a5125b"><img src="https://img.shields.io/badge/linkedin%20-%23312638.svg?&style=for-the-badge&logo=linkedin&logoColor=E5B5FF&color=312638" width="120" alt="linkedin"/></a>
+</p>
+
+<p align="center">
+  <img src="./Quinas-inferiores.svg" alt="" width="620">
 </p>
