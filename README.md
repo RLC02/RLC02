@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Quinas-vinhas.svg" alt="" width="620">
+  <img src="./Quinas-vinhas.svg" alt="" width="100%">
 </p>
 
 <p align="center">
@@ -63,5 +63,5 @@
 </p>
 
 <p align="center">
-  <img src="./Quinas-inferiores.svg" alt="" width="620">
+  <img src="./Quinas-inferiores.svg" alt="" width="100%">
 </p>
