@@ -1,59 +1,74 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Welcome%20to%20my%20Profile-e1e3db?style=for-the-badge&logo=&logoColor=white&color=009EDB" alt="Welcome Badge" width="400">
+  <img src="assets/header.png" width="100%" alt="RLC02 — Ricardo Luquetti Codo, Software Developer. Building software, one block at a time." />
 </p>
 
 <p align="center">
-  <img src="Astro.png" alt="Mascote" width="100">
+  <a href="#featured-projects">Projects</a> &nbsp;·&nbsp;
+  <a href="#experience">Experience</a> &nbsp;·&nbsp;
+  <a href="#technology-stack">Tech stack</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/ricardo-luquetti-codo-835a5125b">LinkedIn ↗</a>
 </p>
+
+## About me
+
+Software developer with experience in frontend and backend development, web and mobile applications, IoT solutions, and technical support. I work with Salesforce customization, integrations, and business-driven solutions at IBM.
+
+<p align="center"><strong>Reliable systems · Practical solutions · Continuous learning</strong></p>
+
+<img src="assets/divider.png" width="100%" alt="" />
+
+## Featured projects
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Dev%20Fullstack-FFFFFF?style=for-the-badge&logo=code&logoColor=black" alt="Dev Fullstack">
-  <br>
-  <em>Experience with Frontend and Backend technologies, building complete web and mobile applications, IoT solutions, and providing technical support for systems.</em>
+  <a href="https://github.com/RLC02/CryAPI"><img src="assets/project-1.png" width="49%" alt="CryAPI — REST API project" /></a>
+  <a href="https://github.com/RLC02/LuminaraDays"><img src="assets/project-2.png" width="49%" alt="LuminaraDays — Event and activity management" /></a>
+  <br />
+  <a href="https://github.com/RLC02/portifolio-nextjs"><img src="assets/project-3.png" width="49%" alt="Portfolio Next.js — Personal developer portfolio" /></a>
+  <a href="https://github.com/RLC02/marketplace-fraud-detection"><img src="assets/project-4.png" width="49%" alt="Marketplace Fraud — Fraud detection project" /></a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Salesforce%20Developer%20@%20IBM-009EDB?style=for-the-badge&logo=salesforce&logoColor=black" alt="Salesforce Developer IBM">
-  <br>
-  <em>Currently working at IBM as a Salesforce Developer, building and maintaining scalable solutions on the Salesforce platform, focusing on customization, integrations, and business-driven solutions.</em>
-</p>
+<p align="right"><a href="https://github.com/RLC02?tab=repositories">View all repositories ↗</a></p>
 
+<img src="assets/divider.png" width="100%" alt="" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-ETEC%20Zona%20Leste-FFFFFF?style=for-the-badge&logo=school&logoColor=black" alt="ETEC">
-  <br>
-  <em>Technical education in Systems Development, with an emphasis on programming, technological solution development, and IT support services.</em>
-</p>
+## Experience
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-FATEC%20Zona%20Leste-009EDB?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="FATEC">
-  <br>
-  <em>Degree in Systems Analysis and Development, focusing on computational systems, software architecture, IoT solutions, and IT support. (in progress)</em>
-</p>
+**IBM Consulting** · Salesforce Developer Intern  
+Salesforce development, platform customization, integrations, system maintenance and technical support.
 
+## Education
 
+**FATEC Zona Leste** · Systems Analysis and Development (in progress)  
+**ETEC Zona Leste** · Technical education in Systems Development
 
-<p>
-  <h1 align="center" style="color: #f9f6e1;">Studying</h1>
-<p align="center">
-  <img src="https://img.shields.io/badge/salesforce%20-%23E34F26.svg?&style=for-the-badge&logo=salesforce&logoColor=009EDB&color=009EDB" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/apex%20-%23E34F26.svg?&style=for-the-badge&logo=apex&logoColor=009EDB&color=009EDB" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/lwc%20-%23E34F26.svg?&style=for-the-badge&logo=lwc&logoColor=009EDB&color=009EDB" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=009EDB&color=FFFFFF" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=009EDB&color=FFFFFF" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=009EDB&color=FFFFFF" alt="PHP"/>
-  <img src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=009EDB&color=FFFFFF" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=openjdk&logoColor=009EDB&color=FFFFFF" alt="Java"/>
-  <img src="https://img.shields.io/badge/Spring%20-%23FF2D20.svg?&style=for-the-badge&logo=Spring&logoColor=009EDB&color=FFFFFF" alt="Spring"/>
-  <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=009EDB&color=FFFFFF" alt="C++"/>
-  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=009EDB&color=FFFFFF" alt="Python"/>
-  <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=009EDB&color=FFFFFF" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=009EDB&color=FFFFFF" alt="React Native"/>
-  <img src="https://img.shields.io/badge/Go%20-%23FF2D20.svg?&style=for-the-badge&logo=go&logoColor=009EDB&color=FFFFFF" alt="go"/>
-</p>
-  
-</p>
-  <h1 align="center" style="color: #f9f6e1;">Contact</h1>
-<p align="center">
- <a href="https://www.linkedin.com/in/ricardo-luquetti-codo-835a5125b"><img src="https://img.shields.io/badge/linkedin%20-%23FF2D20.svg?&style=for-the-badge&logo=linkedin&logoColor=000000&color=009EDB" width="120" alt="linkedin"/></a>
-</p>
+<img src="assets/divider.png" width="100%" alt="" />
+
+## Technology stack
+
+Technologies I work with or am currently studying.
+
+**Salesforce**
+
+![Salesforce](https://img.shields.io/badge/Salesforce-344B2D?style=flat-square&logo=salesforce&logoColor=white) ![Apex](https://img.shields.io/badge/Apex-344B2D?style=flat-square) ![LWC](https://img.shields.io/badge/LWC-344B2D?style=flat-square) 
+
+**Backend**
+
+![Java](https://img.shields.io/badge/Java-344B2D?style=flat-square&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-344B2D?style=flat-square&logo=spring&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-344B2D?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-344B2D?style=flat-square&logo=laravel&logoColor=white) ![Python](https://img.shields.io/badge/Python-344B2D?style=flat-square&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-344B2D?style=flat-square&logo=go&logoColor=white) 
+
+**Frontend & mobile**
+
+![HTML5](https://img.shields.io/badge/HTML5-344B2D?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-344B2D?style=flat-square&logo=css&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-344B2D?style=flat-square&logo=kotlin&logoColor=white) ![React Native](https://img.shields.io/badge/React%20Native-344B2D?style=flat-square&logo=react&logoColor=white) 
+
+**Systems & IoT**
+
+![C++](https://img.shields.io/badge/C%2B%2B-344B2D?style=flat-square&logo=cplusplus&logoColor=white) 
+
+## Contact
+
+Interested in backend, full-stack, Salesforce and systems integration opportunities.
+
+[**Connect on LinkedIn ↗**](https://www.linkedin.com/in/ricardo-luquetti-codo-835a5125b)
+
+<img src="assets/divider.png" width="100%" alt="" />
+
+<sub>Independent personal portfolio. Minecraft-inspired design using original Minecraft Java Edition 1.21.4 textures, sourced from <a href="https://github.com/InventivetalentDev/minecraft-assets/tree/1.21.4">MC Assets</a>. Minecraft belongs to Mojang and Microsoft. Not an official Minecraft product.</sub>
